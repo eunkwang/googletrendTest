@@ -10,8 +10,8 @@ gtrendsR 패키지를 활용하여 google trend 데이터를 분석하고자 함
 
 
 ## 라이브러리 로드
-현재 구글의 정책으로 cran 에 올라와 있는것은 동작을 하지 않는다고 함. 
-따라서 github에서 개발버전을 설치해야 함
+현재 구글의 정책으로 cran 에 올라와 있는것은 동작을 하지 않는다고 했으나 현재는 해결되어 cran에서 설치해도 문제 없음
+패키지 사용법은 아래 깃헙 사이트를 참고
 
 https://github.com/PMassicotte/gtrendsR
 
